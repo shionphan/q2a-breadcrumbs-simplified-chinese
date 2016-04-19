@@ -26,9 +26,9 @@
         ---
 
         ## Add on 2016-04-19 by shionphan
-        
+
         Packages Name: q2a-breadcrumbs Simplified Chinese packages
-        Packages Description: Simplified Chinese packages for q2a-breadcrumbs 
+        Packages Description: Simplified Chinese packages for q2a-breadcrumbs
         Packages URI: https://github.com/shionphan/q2a-breadcrumbs-simplified-chinese/
         Packages Version: 1.0.0
         Packages Date: 2016-04-19
@@ -61,7 +61,7 @@
         "no_selected_ans"             => "暂无已采纳答案",
         "no_upvoted_ans"              => "暂无已投票答案",
         "questions"                   => "所有问题",
-        "unanswered"                  => "未回答",
+        "unanswered"                  => "待回复",
         "categories"                  => "分类",
         "tags"                        => "话题",
         "tag"                         => "话题",
@@ -92,5 +92,5 @@
         "account"                     => "我的资料",
         "favorites"                   => "收藏夹",
         "answers"                     => "所有回答",
-        "wall"                        => "墙帖",
+        "wall"                        => "笔记",
     );
